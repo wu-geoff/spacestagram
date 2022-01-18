@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 The source code can be found in the `gh-pages` branch.
 
+Click [here](https://wu-geoff.github.io/spacestagram/) to open the app.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
