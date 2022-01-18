@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
+The source code can be found in the `gh-pages` branch.
+
 For security reasons, the "key" field of the config.json is removed. If you want to run it locally, replace it with your own [NASA API key](https://api.nasa.gov/).
 
 ## Development server
